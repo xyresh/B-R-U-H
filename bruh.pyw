@@ -6,7 +6,7 @@
 #
 
 
-#extra memem spice here
+#extra meme spice here
 import sys
 
 from tkinter import messagebox 
@@ -83,7 +83,8 @@ class Toplevel1:
         top.resizable(False,  False)
         top.title("B R U H")
         top.configure(background="#ffffff")
-
+	
+	#lelz stuffs
         self.menubar = tk.Menu(top,font="TkMenuFont",bg=_bgcolor,fg=_fgcolor)
         top.configure(menu = self.menubar)
 
