@@ -29,7 +29,7 @@ except ImportError:
     py3 = True
 
 import bruh_support
-
+#stuff button does
 def aboot():
     messagebox.showinfo("About","this niggerish program \nWas written By Mrayo")
 
